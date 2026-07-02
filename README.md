@@ -34,15 +34,18 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0076-minimum-window-substring/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0076-minimum-window-substring/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
