@@ -70,4 +70,12 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0338-counting-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
