@@ -7,6 +7,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -42,6 +43,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
