@@ -18,6 +18,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 ## Two Pointers
