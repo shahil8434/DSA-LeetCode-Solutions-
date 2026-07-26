@@ -11,6 +11,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0904-fruit-into-baskets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
@@ -64,6 +65,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -193,6 +195,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
