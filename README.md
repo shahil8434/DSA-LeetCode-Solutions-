@@ -93,6 +93,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3340-check-balanced-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3340-check-balanced-string/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1288-remove-covered-intervals](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
@@ -204,4 +206,8 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
