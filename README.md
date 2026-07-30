@@ -90,6 +90,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2299-strong-password-checker-ii/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3163-string-compression-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3163-string-compression-iii/) | Medium |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
@@ -169,6 +170,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2579-count-total-number-of-colored-cells/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -188,6 +190,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
