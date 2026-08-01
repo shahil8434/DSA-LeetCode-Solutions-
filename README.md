@@ -94,6 +94,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3163-string-compression-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3163-string-compression-iii/) | Medium |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3340-check-balanced-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3340-check-balanced-string/) | Easy |
@@ -214,6 +215,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
