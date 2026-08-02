@@ -71,6 +71,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
@@ -90,6 +91,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2299-strong-password-checker-ii/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -211,6 +213,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
