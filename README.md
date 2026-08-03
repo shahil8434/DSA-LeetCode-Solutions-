@@ -29,6 +29,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3208-alternating-groups-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3208-alternating-groups-ii/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3788-maximum-score-of-a-split/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -182,6 +183,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
