@@ -103,6 +103,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3340-check-balanced-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3340-check-balanced-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3813-vowel-consonant-score](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3813-vowel-consonant-score/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3813-vowel-consonant-score/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
