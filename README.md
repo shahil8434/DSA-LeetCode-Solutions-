@@ -184,6 +184,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2579-count-total-number-of-colored-cells/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -210,6 +211,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1291-sequential-digits/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
