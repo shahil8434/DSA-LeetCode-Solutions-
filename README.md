@@ -84,6 +84,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -158,6 +159,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0338-counting-bits/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0263-ugly-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
