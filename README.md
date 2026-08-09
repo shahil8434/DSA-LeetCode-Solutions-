@@ -75,6 +75,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
+| [2729-check-if-the-number-is-fascinating](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
@@ -188,6 +189,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2579-count-total-number-of-colored-cells/) | Medium |
+| [2729-check-if-the-number-is-fascinating](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
