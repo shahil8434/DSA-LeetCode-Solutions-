@@ -6,6 +6,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0046-permutations/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0877-stone-game/) | Medium |
@@ -256,4 +257,8 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0877-stone-game/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
