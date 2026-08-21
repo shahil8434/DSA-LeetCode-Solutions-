@@ -75,6 +75,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
@@ -98,6 +99,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -178,6 +180,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1288-remove-covered-intervals](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -221,6 +224,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
