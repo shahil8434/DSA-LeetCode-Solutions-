@@ -100,6 +100,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0796-rotate-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -129,6 +130,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1004-max-consecutive-ones-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
