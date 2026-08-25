@@ -21,6 +21,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1390-four-divisors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1390-four-divisors/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
@@ -150,6 +151,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
@@ -188,6 +190,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -235,6 +238,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0011-container-with-most-water](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
