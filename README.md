@@ -35,6 +35,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3718-smallest-missing-multiple-of-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3788-maximum-score-of-a-split/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
@@ -215,6 +216,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -243,6 +245,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
