@@ -111,6 +111,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2299-strong-password-checker-ii/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -140,6 +141,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
