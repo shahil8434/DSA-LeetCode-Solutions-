@@ -23,6 +23,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -67,6 +68,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
