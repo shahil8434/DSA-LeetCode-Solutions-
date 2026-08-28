@@ -106,6 +106,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0434-number-of-segments-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -271,6 +272,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3813-vowel-consonant-score/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
