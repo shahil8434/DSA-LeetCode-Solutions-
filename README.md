@@ -46,6 +46,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3788-maximum-score-of-a-split/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +237,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
