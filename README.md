@@ -50,6 +50,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3875-construct-uniform-parity-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +184,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3707-equal-score-substrings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3707-equal-score-substrings/) | Easy |
 | [3788-maximum-score-of-a-split](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3788-maximum-score-of-a-split/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
