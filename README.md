@@ -41,6 +41,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3208-alternating-groups-ii/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -300,6 +301,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3813-vowel-consonant-score/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
