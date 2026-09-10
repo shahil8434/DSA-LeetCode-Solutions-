@@ -8,6 +8,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0046-permutations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0046-permutations/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -59,6 +60,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
