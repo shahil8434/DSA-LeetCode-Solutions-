@@ -25,6 +25,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1390-four-divisors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1390-four-divisors/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
