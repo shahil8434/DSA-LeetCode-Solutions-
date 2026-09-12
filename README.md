@@ -23,6 +23,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1052-grumpy-bookstore-owner](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1052-grumpy-bookstore-owner/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1390-four-divisors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1390-four-divisors/) | Medium |
