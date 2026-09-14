@@ -35,6 +35,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
@@ -92,6 +93,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Hash Table
@@ -235,6 +237,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -255,6 +258,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1390-four-divisors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1390-four-divisors/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2579-count-total-number-of-colored-cells/) | Medium |
