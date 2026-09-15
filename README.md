@@ -31,6 +31,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -235,6 +236,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1288-remove-covered-intervals](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
