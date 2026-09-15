@@ -204,6 +204,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2615-sum-of-distances](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
 | [3707-equal-score-substrings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3707-equal-score-substrings/) | Easy |
 | [3788-maximum-score-of-a-split](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3788-maximum-score-of-a-split/) | Medium |
@@ -264,6 +265,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2579-count-total-number-of-colored-cells/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
