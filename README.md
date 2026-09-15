@@ -107,6 +107,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -258,6 +259,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0836-rectangle-overlap](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1390-four-divisors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1390-four-divisors/) | Medium |
@@ -374,4 +376,8 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
