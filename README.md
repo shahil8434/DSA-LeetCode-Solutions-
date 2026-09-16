@@ -253,6 +253,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0009-palindrome-number/) | Easy |
+| [0060-permutation-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0060-permutation-sequence/) | Hard |
 | [0263-ugly-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -360,6 +361,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0060-permutation-sequence/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
