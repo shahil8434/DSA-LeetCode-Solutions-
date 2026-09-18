@@ -275,6 +275,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2485-find-the-pivot-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2579-count-total-number-of-colored-cells/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2769-find-the-maximum-achievable-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
