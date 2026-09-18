@@ -367,11 +367,13 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0060-permutation-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0060-permutation-sequence/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Doubly-Linked List
