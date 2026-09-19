@@ -269,6 +269,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1390-four-divisors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1390-four-divisors/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
@@ -388,6 +389,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
