@@ -162,6 +162,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3340-check-balanced-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3340-check-balanced-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3707-equal-score-substrings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3707-equal-score-substrings/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3813-vowel-consonant-score/) | Easy |
@@ -342,6 +343,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0657-robot-return-to-origin](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3813-vowel-consonant-score/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
