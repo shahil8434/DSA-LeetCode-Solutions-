@@ -34,6 +34,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1480-running-sum-of-1d-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
+| [1861-rotating-the-box](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -97,6 +98,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
+| [1861-rotating-the-box](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -198,6 +200,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
+| [1861-rotating-the-box](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
