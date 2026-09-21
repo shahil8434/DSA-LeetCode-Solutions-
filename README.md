@@ -12,6 +12,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0717-1-bit-and-2-bit-characters/) | Easy |
@@ -110,6 +111,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0424-longest-repeating-character-replacement](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -144,6 +146,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0434-number-of-segments-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0944-delete-columns-to-make-sorted/) | Easy |
