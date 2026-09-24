@@ -60,6 +60,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -297,6 +298,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
