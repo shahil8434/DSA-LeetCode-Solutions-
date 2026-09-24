@@ -177,6 +177,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3707-equal-score-substrings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3707-equal-score-substrings/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3813-vowel-consonant-score/) | Easy |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +313,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3871-count-commas-in-range-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,6 +360,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2347-best-poker-hand](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2347-best-poker-hand/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
