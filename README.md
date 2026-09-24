@@ -404,6 +404,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
