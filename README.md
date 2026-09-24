@@ -294,6 +294,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2579-count-total-number-of-colored-cells/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
@@ -419,6 +420,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
