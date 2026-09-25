@@ -112,6 +112,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -210,6 +211,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
@@ -410,6 +412,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0021-merge-two-sorted-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -436,4 +439,5 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
