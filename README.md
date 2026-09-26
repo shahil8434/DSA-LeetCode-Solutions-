@@ -37,6 +37,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1672-richest-customer-wealth/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1861-rotating-the-box](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -126,6 +127,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2347-best-poker-hand](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2347-best-poker-hand/) | Easy |
@@ -159,6 +161,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0944-delete-columns-to-make-sorted](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1927-sum-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1927-sum-game/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
