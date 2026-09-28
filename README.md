@@ -160,6 +160,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0796-rotate-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
@@ -334,6 +335,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 ## Greedy
@@ -447,4 +449,8 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
