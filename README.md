@@ -49,6 +49,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2347-best-poker-hand](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2347-best-poker-hand/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [2540-minimum-common-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
@@ -83,6 +84,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1004-max-consecutive-ones-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2540-minimum-common-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2347-best-poker-hand](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2347-best-poker-hand/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [2540-minimum-common-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
@@ -225,6 +228,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [2540-minimum-common-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2540-minimum-common-value/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
