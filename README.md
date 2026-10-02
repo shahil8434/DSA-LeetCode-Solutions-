@@ -467,4 +467,8 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0022-generate-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0184-department-highest-salary](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
