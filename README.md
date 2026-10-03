@@ -308,6 +308,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1248-count-number-of-nice-subarrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
+| [1323-maximum-69-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1390-four-divisors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1390-four-divisors/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1927-sum-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1927-sum-game/) | Medium |
@@ -358,6 +359,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0011-container-with-most-water](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
+| [1323-maximum-69-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1927-sum-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1927-sum-game/) | Medium |
