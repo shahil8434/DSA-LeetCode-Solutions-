@@ -153,6 +153,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -261,6 +262,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0338-counting-bits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0338-counting-bits/) | Easy |
 | [0877-stone-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0877-stone-game/) | Medium |
 ## Bit Manipulation
@@ -343,6 +345,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -467,6 +470,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Database
