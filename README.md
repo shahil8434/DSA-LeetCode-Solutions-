@@ -167,6 +167,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0657-robot-return-to-origin](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0944-delete-columns-to-make-sorted/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -353,6 +354,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0032-longest-valid-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -364,6 +366,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0011-container-with-most-water](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -480,6 +483,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0022-generate-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Database
