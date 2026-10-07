@@ -492,6 +492,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0184-department-highest-salary](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/0184-department-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
