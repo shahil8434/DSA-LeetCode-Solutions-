@@ -495,6 +495,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1068-product-sales-analysis-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
