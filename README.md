@@ -490,6 +490,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/0184-department-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1068-product-sales-analysis-i/) | Easy |
