@@ -12,6 +12,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0283-move-zeroes](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -229,6 +230,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0141-linked-list-cycle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0283-move-zeroes](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
