@@ -33,6 +33,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
@@ -287,6 +288,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1288-remove-covered-intervals](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
@@ -371,6 +373,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
+| [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1927-sum-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1927-sum-game/) | Medium |
