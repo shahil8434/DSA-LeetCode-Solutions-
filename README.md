@@ -56,6 +56,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2615-sum-of-distances](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -386,6 +387,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
