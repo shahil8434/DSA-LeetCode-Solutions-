@@ -340,6 +340,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -385,6 +386,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
