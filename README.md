@@ -523,6 +523,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1683-invalid-tweets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/1934-confirmation-rate/) | Medium |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
