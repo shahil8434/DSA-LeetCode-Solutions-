@@ -58,6 +58,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -144,6 +145,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2615-sum-of-distances](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2615-sum-of-distances/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2653-sliding-subarray-beauty/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2729-check-if-the-number-is-fascinating/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -521,4 +523,12 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1683-invalid-tweets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/1934-confirmation-rate/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
