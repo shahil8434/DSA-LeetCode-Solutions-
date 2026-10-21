@@ -205,6 +205,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3582-generate-tag-for-video-caption](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3582-generate-tag-for-video-caption/) | Easy |
 | [3707-equal-score-substrings](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3707-equal-score-substrings/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3813-vowel-consonant-score/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3968-maximum-manhattan-distance-after-all-moves/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
