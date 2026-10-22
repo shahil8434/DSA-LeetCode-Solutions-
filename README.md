@@ -515,6 +515,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0584-find-customer-referee](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0596-classes-with-at-least-5-students/) | Easy |
+| [0610-triangle-judgement](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/1045-customers-who-bought-all-products/) | Medium |
