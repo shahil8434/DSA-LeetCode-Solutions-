@@ -509,6 +509,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0577-employee-bonus/) | Easy |
