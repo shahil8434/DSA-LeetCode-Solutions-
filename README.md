@@ -190,6 +190,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2299-strong-password-checker-ii/) | Easy |
+| [2409-count-days-spent-together](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -336,6 +337,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2409-count-days-spent-together](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2409-count-days-spent-together/) | Easy |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2579-count-total-number-of-colored-cells/) | Medium |
