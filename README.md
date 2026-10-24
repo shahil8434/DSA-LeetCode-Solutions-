@@ -462,6 +462,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0021-merge-two-sorted-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0060-permutation-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -472,6 +473,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0147-insertion-sort-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
