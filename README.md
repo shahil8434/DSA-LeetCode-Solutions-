@@ -244,6 +244,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0283-move-zeroes](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1861-rotating-the-box](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -472,6 +473,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0147-insertion-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
