@@ -8,6 +8,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
 | [0046-permutations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0046-permutations/) | Medium |
+| [0075-sort-colors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -238,6 +239,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0011-container-with-most-water/) | Medium |
+| [0075-sort-colors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
@@ -293,6 +295,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
@@ -563,4 +566,12 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0148-sort-list/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
