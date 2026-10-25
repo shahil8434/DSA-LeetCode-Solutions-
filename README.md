@@ -241,6 +241,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0141-linked-list-cycle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
@@ -293,6 +294,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
@@ -365,6 +367,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -474,6 +477,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0142-linked-list-cycle-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -555,4 +559,8 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
