@@ -552,6 +552,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1729-find-followers-count](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
+| [1907-count-salary-categories](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Binary Indexed Tree
