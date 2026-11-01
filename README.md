@@ -14,6 +14,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -326,6 +327,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0060-permutation-sequence](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/0060-permutation-sequence/) | Hard |
 | [0263-ugly-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
