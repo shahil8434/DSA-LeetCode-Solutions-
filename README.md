@@ -15,6 +15,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0283-move-zeroes/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -299,6 +300,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0075-sort-colors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0148-sort-list/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
@@ -328,6 +330,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0263-ugly-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0836-rectangle-overlap/) | Easy |
