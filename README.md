@@ -550,6 +550,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1211-queries-quality-and-percentage](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1280-students-and-examinations/) | Easy |
+| [1341-movie-rating](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1633-percentage-of-users-attended-a-contest/) | Easy |
