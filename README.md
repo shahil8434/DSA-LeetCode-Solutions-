@@ -32,6 +32,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1390-four-divisors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1390-four-divisors/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
@@ -93,6 +94,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0209-minimum-size-subarray-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -250,6 +252,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0567-permutation-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0611-valid-triangle-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1861-rotating-the-box](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1861-rotating-the-box/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -306,6 +309,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0976-largest-perimeter-triangle](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/0976-largest-perimeter-triangle/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1471-the-k-strongest-values-in-an-array/) | Medium |
