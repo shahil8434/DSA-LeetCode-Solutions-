@@ -561,6 +561,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1661-average-time-of-process-per-machine/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
