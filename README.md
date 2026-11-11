@@ -534,6 +534,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Hard/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0577-employee-bonus/) | Easy |
