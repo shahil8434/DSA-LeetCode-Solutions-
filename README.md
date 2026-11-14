@@ -71,6 +71,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3208-alternating-groups-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3208-alternating-groups-ii/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -239,6 +240,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [3208-alternating-groups-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3208-alternating-groups-ii/) | Medium |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i/) | Medium |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +396,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -580,6 +583,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -592,4 +596,16 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/0075-sort-colors/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
