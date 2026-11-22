@@ -194,6 +194,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1839-longest-substring-of-all-vowels-in-order/) | Medium |
 | [1927-sum-game](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/1927-sum-game/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
