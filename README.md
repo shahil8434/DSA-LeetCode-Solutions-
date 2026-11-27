@@ -116,6 +116,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -324,6 +325,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2165-smallest-value-of-the-rearranged-number/) | Medium |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
