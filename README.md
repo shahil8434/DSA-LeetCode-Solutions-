@@ -548,6 +548,7 @@ A curated collection of my Data Structures &amp; Algorithms solutions in Java, s
 | [0197-rising-temperature](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shahil8434/DSA-LeetCode-Solutions-/tree/main/MySQL/Medium/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
